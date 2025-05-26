@@ -1,1 +1,1 @@
-# mezuniyer-projesi
+# mezuniyet-projesi
